@@ -1,0 +1,5 @@
+langsmith
+langchain
+langgraph
+openai
+ipykernel
